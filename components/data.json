@@ -1,0 +1,36 @@
+{
+    "response": {
+        "candidates": [
+            {
+                "content": {
+                    "parts": [
+                        {
+                            "text": "**Marques Brownlee (MKBHD)**\n\n**Biography:**\n\n* **Full Name:** Marques Keith Brownlee\n* **Born:** December 19, 1993 (age 29)\n* **Birth Place:** Paterson, New Jersey, USA\n* **Occupation:** Technology YouTuber, Podcaster, Author\n\n**Career:**\n\n* **YouTube Channel:** MKBHD (established in 2008)\n* **Subscriber Count:** Over 15.9 million (as of February 2023)\n* **Content Focus:** Comprehensive technology reviews, hands-on demonstrations, industry analysis, and product unboxings\n* **Known for:**\n    * In-depth and well-informed tech reviews\n    * High-quality production values\n    * Engaging and approachable presentation style\n* **Other Projects:**\n    * Podcast: Waveform: The MKBHD Podcast\n    * Book: \"Everything and Nothing: The Search for the iPhone Killer\" (2021)\n\n**Accolades and Recognition:**\n\n* Shorty Award for Best in Tech (2014)\n* Webby Award for Best Individual Performance in Online Film & Video (2015)\n* YouTube Silver and Gold Creator Awards\n* Named one of Time magazine's \"30 Most Influential People on the Internet\" (2018)\n* Received an honorary doctorate from Stevens Institute of Technology (2022)\n\n**Notable Achievements:**\n\n* Developed a strong online community of tech enthusiasts\n* Partnered with major tech companies like Apple, Samsung, and Google\n* Founded the production company Waveform Media\n* Collaborated with other popular YouTubers, such as Casey Neistat and Linus Sebastian"
+                        }
+                    ],
+                    "role": "model"
+                },
+                "finishReason": "STOP",
+                "index": 0,
+                "safetyRatings": [
+                    {
+                        "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HATE_SPEECH",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_HARASSMENT",
+                        "probability": "NEGLIGIBLE"
+                    },
+                    {
+                        "category": "HARM_CATEGORY_DANGEROUS_CONTENT",
+                        "probability": "NEGLIGIBLE"
+                    }
+                ]
+            }
+        ]
+    }
+}
