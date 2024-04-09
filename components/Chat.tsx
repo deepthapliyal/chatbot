@@ -30,7 +30,7 @@ export const ChatBox: React.FC = () => {
         setConversation([...conversation, newUserMessage]);
         setSending(true);
         setMessage("");
-        let response = await fetch("http://localhost:3000/api/get", {
+        let response = await fetch("/api/get", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json",
