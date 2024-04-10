@@ -76,7 +76,7 @@ export const ChatBox: React.FC = () => {
     }, [conversation]);
 
     return (
-        <div className="bg-zinc-800 h-screen flex flex-col md:w-4/5 lg:w-4/5">
+        <div className="bg-zinc-800 h-screen flex flex-col w-full">
             <div className="h-16 p-4 flex items-center justify-between text-white">
                 <div>Model Name</div>
                 <div>
