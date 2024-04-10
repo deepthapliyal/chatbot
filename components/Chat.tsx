@@ -77,8 +77,8 @@ export const ChatBox: React.FC = () => {
 
     return (
         <div className="bg-zinc-800 h-screen flex flex-col w-full">
-            <div className="h-16 p-4 flex items-center justify-between text-white">
-                <div>Model Name</div>
+            <div className="h-16 p-4 flex items-center lg:justify-between justify-end  text-white">
+                <div className="hidden lg:block ">Model Name</div>
                 <div>
                     <Avatar>
                         <AvatarImage src="https://lh3.googleusercontent.com/a/ACg8ocIh6V7Ab3ItQMGMC0n8rm8TEFIbvDAUNoUiA18leQ6EfijCQmT2=s192-c-rg-br100" />
